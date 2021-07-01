@@ -111,3 +111,16 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+class MyImage extends StatelessWidget {
+  const MyImage({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      //Con Image.asset() insertamos una imágen desde la carpeta 'assets'
+      child: Image.asset('assets/imagen.png')
+      /*Nota: Para visualizar imágenes hay que añadirlas en el archivo pubspec.yaml */
+    );
+  }
+}
