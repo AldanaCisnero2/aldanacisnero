@@ -122,5 +122,6 @@ class MyImage extends StatelessWidget {
       child: Image.asset('assets/imagen.png')
       /*Nota: Para visualizar imágenes hay que añadirlas en el archivo pubspec.yaml */
     );
+    bla bla bla sdfsdf-...
   }
 }
