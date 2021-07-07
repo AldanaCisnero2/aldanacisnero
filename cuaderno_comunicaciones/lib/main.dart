@@ -123,4 +123,10 @@ class MyImage extends StatelessWidget {
       /*Nota: Para visualizar imágenes hay que añadirlas en el archivo pubspec.yaml */
     );
   }
+  asdfiosakosdf....
+  ajdmamdmwe
+
+  lorem ipsum dolor sit amet 
+  //Esto no funciona.
+  
 }
