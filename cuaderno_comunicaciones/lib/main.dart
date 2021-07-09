@@ -124,4 +124,3 @@ class MyImage extends StatelessWidget {
     );
   }
 }
-//Hice un cambio en esta línea
